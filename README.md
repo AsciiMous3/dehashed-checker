@@ -28,6 +28,14 @@ This script requires the following dependencies:
 - Python 3.x
 - requests (can be installed via `pip`)
 
+## Disclaimer
+
+**Important**: This script is intended for security research purposes only. By using this script, you agree to use it responsibly and in compliance with the terms and conditions outlined in Dehashed's legal documents, which can be found at [Dehashed Legal](https://www.dehashed.com/legal). Unauthorized and malicious use of this script is strictly prohibited.
+
+The script is designed to interact with the Dehashed API to search for leaked credentials. It is your responsibility to ensure that you have the necessary permissions and legal rights to use the script and access the Dehashed service. Please refer to Dehashed's legal documents for more information on their terms of service, acceptable use policy, and any restrictions or limitations that may apply.
+
+The author of this script assumes no liability for any unauthorized or inappropriate use of the script. It is recommended to review and comply with all applicable laws, regulations, and ethical guidelines when utilizing this script for security research purposes.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
