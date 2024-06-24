@@ -36,6 +36,3 @@ The script is designed to interact with the Dehashed API to search for leaked cr
 
 The author of this script assumes no liability for any unauthorized or inappropriate use of the script. It is recommended to review and comply with all applicable laws, regulations, and ethical guidelines when utilizing this script for security research purposes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
