@@ -9,7 +9,7 @@ parser = argparse.ArgumentParser(description="Search for leaked credentials usin
 parser.add_argument("-d", "--domain", help="Domain to search for")
 parser.add_argument("-e", "--email", help="Email address to search for")
 parser.add_argument("-a", "--auth", help="Dehashed API credentials (email and API key), separated by a comma")
-parser.add_argument("-o", "--output", default="gee_die_ding_ander_naam.csv", help="Output CSV file name (Default: gee_die_ding_ander_naam.csv)")
+parser.add_argument("-o", "--output", default="rename.csv", help="Output CSV file name (Default: rename.csv)")
 parser.add_argument("-v", "--verbose", action="store_true", help="Print verbose output")
 args = parser.parse_args()
 
