@@ -12,7 +12,7 @@ To use this script, follow these steps:
 - `-d`, `--domain`: Specify the domain to search for leaked credentials.
 - `-e`, `--email`: Specify the email address to search for leaked credentials.
 - `-a`, `--auth`: Provide your Dehashed API credentials (email and API key), separated by a comma.
-- `-o`, `--output`: Specify the output CSV file name (Default: `gee_die_ding_ander_naam.csv`).
+- `-o`, `--output`: Specify the output CSV file name (Default: `rename.csv`).
 - `-v`, `--verbose`: Enable verbose output for more detailed information.
 
 Example command to search for a domain:
